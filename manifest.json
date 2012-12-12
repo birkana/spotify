@@ -1,0 +1,16 @@
+{
+	"BundleType": "Application",
+	"BundleIdentifier": "svt",
+	"AppIcon": {
+		"36x18": "svt_logo.png"
+	},
+	"AppName": {
+		"en": "Sveriges Television"
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"RequiredPermissions": [
+		"http://www.svt.se"
+	]
+}

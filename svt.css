@@ -1,0 +1,38 @@
+.wrapper {
+	padding: 2%;
+}
+.meta {
+}
+
+.list {
+}
+
+.item {
+	margin-bottom: 2em;
+	padding: 2%;
+	border: #999 solid 1px;
+	/*-webkit-border-radius: 3px 3px 3px 3px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 20px;*/
+}
+
+.global {
+	background-color: #333;
+	text-align: center;
+	padding: 1.5em 0;
+}
+
+.sp-list > div {
+	background-color: transparent !important;
+	backgorund-image: none;
+}
+
+.sp-list > div:nth-child(odd) {
+	background-color: green;
+	backgorund-image: none;
+}
+
+.poster {
+	height: auto;
+	width: 150px;
+}
